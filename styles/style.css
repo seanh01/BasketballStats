@@ -1,0 +1,193 @@
+body {
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+
+nav
+{
+    background-color: blue;
+}
+
+na ul
+{
+    float left;
+    margin-right: 25px;
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: lightskyblue;
+    display:inline;
+    margin: 0 15px;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav 
+{
+    padding: 8px;
+}
+
+nav ul li
+{
+    padding: 15px;
+    margin: 35px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+nav ul li:hover
+{
+    background-color: orange;
+}
+
+header
+{
+    background-color: #f02554;
+    padding: 10px;
+}
+
+.players {
+    text-align: center;
+    border:5px solid black;
+    margin: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+#active {
+    border-color: yellow;
+}
+
+
+
+
+#content {
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+}
+
+#Lebron {
+    text-align: center;
+}
+
+
+
+
+h2 {
+    text-align: center;
+    color: #6d096d;
+}
+
+img {
+   padding: 10px;
+}
+
+p {
+    padding: 150px;
+    font-size: 20px;
+}
+
+
+.centres {
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: 715px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.centred {
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: 650px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.newCentre {
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: 740px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.centre {
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: 440px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+h1 {
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    margin-left: 50px;
+    color: darkblue;
+}
+
+section {
+    font-size: 25px;
+    padding: 20px;
+    border: 5px solid black;
+}
+
+
+footer {
+    clear: both;
+    border: 2px solid purple;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+}
+
+
+
+
+footer ul li {
+    list-style-type: none;
+    color: white;
+    display: inline;
+    padding: 20px;
+}
+
+
+
+
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+    display: inline;
+}
